@@ -1,0 +1,170 @@
+
+
+
+.box{
+
+    width: 900px;
+    height: 1200px;
+
+}
+
+
+.header{
+    width: 900px;
+    height: 80px;
+    background-color: #797979;
+    border: 1px solid #d4d4d4;
+    margin: auto;
+    box-sizing: border-box ;
+    opacity: 0.8;
+}
+
+.tit{
+    width: 50px;
+    height: 450px;
+    color: #fafafa;
+    margin-left: 10px;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+
+}
+.basic{
+    width: 120px;
+    height: 120px;
+    background-color: #d1d1d1;
+    text-align: center;
+    line-height: 110px;
+    float: left;
+    border-bottom: 1px solid #efefef;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.basic1{
+    width: 780px;
+    height: 120px;
+
+    float: right;
+    border: 1px solid #d4d4d4;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.contact{
+    width: 120px;
+    height: 120px;
+    background-color: #d1d1d1;
+    text-align: center;
+    line-height: 110px;
+    float: left;
+    border-bottom: 1px solid #efefef;
+    box-sizing: border-box;
+    font-weight: bold;
+
+}
+
+.contact1{
+    width: 780px;
+    height: 120px;
+    float: right;
+    border: 1px solid #d4d4d4;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.contact3{
+    color:blue;
+    text-decoration: underline;
+}
+
+.contact4{
+    color:blue;
+    text-decoration: underline;
+}
+
+.ability{
+    width: 120px;
+    height: 120px;
+    background-color: #d1d1d1;
+    text-align: center;
+    line-height: 110px;
+    float: left;
+    border-bottom: 1px solid #efefef;
+    box-sizing: border-box;
+    font-weight: bold;
+
+}
+
+.ability1 {
+    width: 780px;
+    height: 120px;
+    float: right;
+    border: 1px solid #d4d4d4;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+
+.education{
+
+    width: 120px;
+    height: 120px;
+    background-color: #d1d1d1;
+    text-align: center;
+    line-height: 110px;
+    float: left;
+    border-bottom: 1px solid #efefef;
+    box-sizing: border-box;
+    font-weight: bold;
+
+}
+
+.education1{
+    width: 780px;
+    height: 120px;
+    float: right;
+    border: 1px solid #d4d4d4;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.education2{
+    display: block;
+}
+
+.project{
+
+    width: 120px;
+    height: 120px;
+    background-color: #d1d1d1;
+    text-align: center;
+    line-height: 110px;
+    float: left;
+    border-bottom: 1px solid #efefef;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+
+.project1{
+
+    width: 780px;
+    height: 120px;
+    float: right;
+    border: 1px solid #d4d4d4;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.project3{
+    display: block;
+}
+
