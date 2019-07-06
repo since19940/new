@@ -1,0 +1,171 @@
+
+
+.box {
+
+    width: 900px;
+    height: 900px;
+    border: 1px solid white;
+}
+
+.header{
+
+    width: 200px;
+    height: 750px;
+    background-color: dodgerblue;
+    border: 1px solid white;
+    float: left;
+    margin-top: 10px;
+    box-sizing: border-box;
+    opacity: 0.8;
+}
+
+.tit{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #fafafa;
+    text-align: center;
+    line-height: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+
+}
+.content{
+    width: 700px;
+    height: 900px;
+    float: right;
+    box-sizing: border-box;
+    padding-left: 25px;
+    opacity: 0.7;
+
+}
+
+.basic{
+    width: 700px;
+    height: 50px;
+    font-size: 30px;
+   font-weight: bold;
+
+    margin-top: 30px;
+    box-sizing: border-box;
+
+
+}
+.basic1{
+    width:650px ;
+    height: 60px;
+
+    box-sizing: border-box;
+
+}
+
+.contact{
+
+    width: 700px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+
+    box-sizing: border-box;
+}
+
+.contact1{
+
+    width:650px ;
+    height: 60px;
+
+    box-sizing: border-box;
+}
+
+.contact3{
+    color: blue;
+    text-decoration: underline;
+}
+
+
+.contact4{
+    color: blue;
+    text-decoration: underline;
+}
+
+.ability{
+    width: 700px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+
+    box-sizing: border-box;
+}
+
+.ability1{
+    width:650px ;
+    height: 60px;
+
+    box-sizing: border-box;
+}
+
+
+.ability2{
+    display: block;
+}
+
+.ability4{
+    display: block;
+}
+
+
+.education{
+
+    width: 700px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 60px;
+    box-sizing: border-box;
+}
+.education1{
+    width:650px ;
+    height: 60px;
+
+    box-sizing: border-box;
+}
+
+.education4{
+    display: block;
+}
+
+
+.education5{
+    display: block;
+}
+
+
+.project{
+
+    width: 700px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 60px;
+    box-sizing: border-box;
+}
+
+.project1{
+
+    width:650px ;
+    height: 60px;
+
+    box-sizing: border-box;
+}
+
+.project4{
+
+    display: block;
+}
+
+.project5{
+
+    display: block;
+}
