@@ -1,0 +1,150 @@
+
+
+.box{
+    width: 700px;
+    height: 900px;
+    border:1px solid #f3f3f3;
+    opacity: 0.8;
+
+
+}
+
+.tit{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 7px;
+}
+
+.basic{
+margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 7px;
+}
+
+.basic1{
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 7px;
+}
+
+.contact{
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 7px;
+
+}
+
+.contact1{
+
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 7px;
+
+}
+.contact2{
+    font-weight: bold;
+
+}
+
+.contact3{
+    color: blue;
+    text-decoration: underline blue;
+}
+
+
+.contact4{color: blue;
+    text-decoration: underline blue;
+}
+
+.contact5{    font-weight: bold;
+}
+
+.contact6{    font-weight: bold;
+}
+
+
+.ability{
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 7px;
+
+}
+
+.ability1{
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 7px;
+    padding-left: 2px;
+
+}
+
+.ability2{
+    display: block;
+    font-weight: bold;
+
+}
+
+.ability4{
+    display: block;
+    font-weight: bold;
+}
+
+
+.education{
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 7px;
+}
+
+.education1{
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 7px;
+}
+.education4{
+    display: block;
+    font-weight: bold;
+
+}
+
+
+.education5{
+    display: block;
+    font-weight: bold;
+
+}
+.project{
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 7px;
+}
+
+.project1{
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 7px;
+}
+
+.project4{
+    display: block;
+    font-weight: bold;
+}
+
+.project5{
+    display: block;
+    font-weight: bold;
+}
+
+p{
+    font-weight: bold;
+    line-height: 5px;
+
+
+
+}
